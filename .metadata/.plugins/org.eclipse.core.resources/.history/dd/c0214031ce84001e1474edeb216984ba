@@ -1,0 +1,14 @@
+package br.com.treinamento;
+
+public class EnhancedFor {
+
+	public static void main(String[] args) {
+		
+		int[] array = {10,20,30,40}
+		
+		for (int 1 : array) {
+		System.out.println("Valor de i:" +1);
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package br.com.treinamento;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		Cliente cliente1 = new cliente();
+		cliente1.nome = "Marcelo";
+		cliente1.cpf = "1234567";
+		
+		Conta conta1 = new Conta1();
+		conta1.agencia = "778-9"
+		conta1.numeroConta=46231;
+		conta1.saldo = 100.00;
+	}
+
+}

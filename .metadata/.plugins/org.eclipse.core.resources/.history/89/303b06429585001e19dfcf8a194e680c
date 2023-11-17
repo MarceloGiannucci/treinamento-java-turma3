@@ -1,0 +1,24 @@
+package br.com.treinamento;
+
+public class Conta {
+	//Atributos
+	String agencia;
+	int numeroConta;
+	double saldo;
+	
+	void transferir( ) {
+		
+	}
+	
+	void sacar() {
+		
+	}
+	
+	void depositar(double valor) { // assinatura o que determina que é
+		saldo = saldo+valor;
+		
+		System.out.println("Depósito de R$" + valor);
+	}
+	
+
+}
