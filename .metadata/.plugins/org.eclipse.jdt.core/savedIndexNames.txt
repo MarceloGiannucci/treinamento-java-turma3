@@ -1,7 +1,0 @@
-INDEX VERSION 1.134+C:\Users\marce\OneDrive\Área de Trabalho\WorkSpace-treinamento\.metadata\.plugins\org.eclipse.jdt.core
-995601215.index
-1865797976.index
-399262168.index
-1290591559.index
-3855371069.index
-2418015269.index
